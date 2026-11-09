@@ -26,7 +26,7 @@ export default async function LoginPage() {
         <div className="mt-6 rounded-xl border border-line bg-surface p-5">
           <LoginForm />
         </div>
-        <div className="mt-4 text-[13px]">
+        <div className="mt-3 flex justify-end">
           <ThemeToggle initial={await currentTheme()} />
         </div>
       </div>
