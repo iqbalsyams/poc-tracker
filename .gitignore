@@ -1,0 +1,5 @@
+# Data bisnis dan aset sumber tetap di laptop, tidak masuk repo
+*.xlsx
+*.zip
+/design/
+/poc-tracker-app/db/import/
